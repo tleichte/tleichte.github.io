@@ -1,7 +1,7 @@
 [
     {
         "title": "PerBlue Entertainment",
-        "description": "My current role at PerBlue is a Front End / Engine Software developer. The most well known shipped product I've developed at PerBlue Entertainment is Disney Heroes: Battle Mode. I am also working on an unnanounced project!",
+        "description": "As a Front End / Engine Software developer, the most well known shipped product I've worked on is Disney Heroes: Battle Mode. I am also working on an unnanounced project!",
         "icon": "pb",
         "InnerImages": [ "dh1.png" ]
     },
@@ -27,7 +27,7 @@
     },
     {
         "title": "Barnout",
-        "description": "Barnout is a 2-4 player party game I developed as a sophomore with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Unity as well as the graphics. Available at https://huskygames.com/games/?game=barnout",
+        "description": "Barnout is a 2-4 player party game I developed as a sophomore with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Unity as well as the art and graphics. Available at https://huskygames.com/games/?game=barnout",
         "icon": "barnout",
         "InnerImages": [
             "barnout1.png",
