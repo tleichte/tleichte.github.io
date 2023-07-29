@@ -1,18 +1,18 @@
 [
     {
-        "title": "Lost Boys Interactive",
+        "title": "Lost Boys Interactive (2022 - Present)",
         "description": "In my role at LBI, I worked on the pre-production to ship phases for WWE 2K23, specifically in the MyFaction game mode. I am also working on an unannounced AAA PC and Console game.",
         "icon": "lbi",
         "InnerImages": [ "WWE2K23.png", "myfaction.png" ]
     },
     {
-        "title": "PerBlue Entertainment",
+        "title": "PerBlue Entertainment (2019 - 2022)",
         "description": "At PerBlue, I worked on UI/UX for their flagship title, Disney Heroes: Battle Mode. I also worked on their most recent title, Twisted Towers, as the primary Gameplay Engineer.",
         "icon": "pb",
         "InnerImages": [ "dh.png", "dh1.png", "twistedtowers.png" ]
     },
     {
-        "title": "Roboxing",
+        "title": "Roboxing (2019)",
         "description": "Roboxing was a project developed for a physical arcade cabinet outside of the Husky Game Development lab. It also has a release on my itch.io (https://tyler-eichten.itch.io/)",
         "icon": "roboxing",
         "InnerImages": [
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "title": "Loot Force",
+        "title": "Loot Force (2019)",
         "description": "This was an experimental project where I learned how to use Steam's networking API and develop a turn based hacking strategy game.",
         "icon": "lf",
         "InnerImages": [ 
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "title": "Barnout",
+        "title": "Barnout (2018)",
         "description": "Barnout is a 2-4 player party game I developed as a sophomore with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Unity as well as the art and graphics. Available at https://huskygames.com/games/?game=barnout",
         "icon": "barnout",
         "InnerImages": [
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "title": "Siege of Arrolith",
+        "title": "Siege of Arrolith (2017)",
         "description": "Siege of Arrolith is a 2-4 player turn based combat game I developed as a freshmen with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Java. Available at https://huskygames.com/games/?game=siege-of-arrolith",
         "icon": "arrolith",
         "InnerImages": [
@@ -53,7 +53,22 @@
         ]
     },
     {
-        "title": "BOSS Snowplow | Web Design",
+        "title": "Creative Suite 155 | Graphic Design (2018)",
+        "description": "These are several posters and materials I designed while on my on-campus job. Created with Adobe Illustrator, Adobe Photoshop, and Adobe InDesign.",
+        "icon": "cs155",
+        "InnerImages": [
+            "CS155Training.png",
+            "CS155HuskyLEAD.png",
+            "CS155ThankYou.png",
+            "CS155Program.png",
+            "CS155CoverSlide.png",
+            "CS155InnerSlide.png",
+            "CS155Certificate.png",
+            "CS155FixItHousing.png"
+        ]
+    },
+    {
+        "title": "BOSS Snowplow | Web Design (2017)",
         "description": "As part of my internship, I was tasked with designing an internal web app capable of sending and receiving data similar to the old version, all while giving it a makeover. Created with Adobe Illustrator, Angular 4, Typescript, CSS3, HTML5, and ASP.Net/C#.",
         "icon": "boss",
         "InnerImages": [
@@ -68,21 +83,6 @@
             "BOSS404-2.png",
             "BOSS404-3.png",
             "BOSS404-4.png"
-        ]
-    },
-    {
-        "title": "Creative Suite 155 | Graphic Design",
-        "description": "These are several posters and materials I designed while on my on-campus job. Created with Adobe Illustrator, Adobe Photoshop, and Adobe InDesign.",
-        "icon": "cs155",
-        "InnerImages": [
-            "CS155Training.png",
-            "CS155HuskyLEAD.png",
-            "CS155ThankYou.png",
-            "CS155Program.png",
-            "CS155CoverSlide.png",
-            "CS155InnerSlide.png",
-            "CS155Certificate.png",
-            "CS155FixItHousing.png"
         ]
     }
 ]
