@@ -51,38 +51,5 @@
             "arrolith2.png",
             "arrolith3.png"
         ]
-    },
-    {
-        "title": "Creative Suite 155 | Graphic Design (2018)",
-        "description": "These are several posters and materials I designed while on my on-campus job. Created with Adobe Illustrator, Adobe Photoshop, and Adobe InDesign.",
-        "icon": "cs155",
-        "InnerImages": [
-            "CS155Training.png",
-            "CS155HuskyLEAD.png",
-            "CS155ThankYou.png",
-            "CS155Program.png",
-            "CS155CoverSlide.png",
-            "CS155InnerSlide.png",
-            "CS155Certificate.png",
-            "CS155FixItHousing.png"
-        ]
-    },
-    {
-        "title": "BOSS Snowplow | Web Design (2017)",
-        "description": "As part of my internship, I was tasked with designing an internal web app capable of sending and receiving data similar to the old version, all while giving it a makeover. Created with Adobe Illustrator, Angular 4, Typescript, CSS3, HTML5, and ASP.Net/C#.",
-        "icon": "boss",
-        "InnerImages": [
-            "BOSSMainMenu.png",
-            "BOSSTechSupport.png",
-            "BOSSKanban.png",
-            "BOSSPlowTable.png",
-            "BOSSProgramTable.png",
-            "BOSSTrigger.png",
-            "BOSSRegistration.png",
-            "BOSS404-1.png",
-            "BOSS404-2.png",
-            "BOSS404-3.png",
-            "BOSS404-4.png"
-        ]
     }
 ]
