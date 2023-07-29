@@ -22,16 +22,6 @@
         ]
     },
     {
-        "title": "Loot Force (2019)",
-        "description": "This was an experimental project where I learned how to use Steam's networking API and develop a turn based hacking strategy game.",
-        "icon": "lf",
-        "InnerImages": [ 
-            "lf1.png",
-            "lf2.png",
-            "lf3.png" 
-        ]
-    },
-    {
         "title": "Barnout (2018)",
         "description": "Barnout is a 2-4 player party game I developed as a sophomore with a team for the Husky Game Development enterprise at Michigan Tech. I developed the front end and UX code in Unity as well as the art and graphics. Available at https://huskygames.com/games/?game=barnout",
         "icon": "barnout",
