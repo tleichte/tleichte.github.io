@@ -1,0 +1,241 @@
+{
+    "Template":
+    {
+        "name": "",
+        "description": "",
+        "refresh_time": "",
+        "url": ""
+    },
+
+    "Sections":
+    [
+        {
+            "title": "🏆 Essentials 🏆",
+            "entries":
+            [    
+                {
+                    "name": "Gamedle",
+                    "description": "Guess the video game in various ways.",
+                    "refresh_time": "10pm",
+                    "url": "https://www.gamedle.wtf/"
+                },
+                {
+                    "name": "Smashdle",
+                    "description": "A bunch of daily games where you guess the character from Super Smash Bros.",
+                    "refresh_time": "",
+                    "url": "https://smashdle.net/"
+                },
+                {
+                    "name": "Scrandle",
+                    "description": "Guess which scran (stadium food) is more popular based on their pictures and prices.",
+                    "refresh_time": "",
+                    "url": "https://scrandle.com/"
+                },
+                                {
+                    "name": "Pokedoku",
+                    "description": "Fill out the grid with Pokémon matching the criteria of each cell's row and column.",
+                    "refresh_time": "11pm",
+                    "url": "https://pokedoku.com/"
+                }
+            ]
+        },
+        {
+            "title": "🥇 Importants 🥇",
+            "entries":
+            [
+                {
+                    "name": "Guess the Game",
+                    "description": "Guess the video game by its cropped screenshots.",
+                    "refresh_time": "",
+                    "url": "https://guessthe.game/"
+                },
+                {
+                    "name": "Zoom Out",
+                    "description": "Guess the video game from the zoomed-in screenshot.",
+                    "refresh_time": "",
+                    "url": "https://zoomout.videoludid.com/"
+                },
+                {
+                    "name": "OWDle",
+                    "description": "Daily games related to Overwatch 2. Guess the character or guess the conversation between two characters.",
+                    "refresh_time": "",
+                    "url": "https://owdle.guessing.day/"
+                },
+                {
+                    "name": "Daily Tens",
+                    "description": "Guess the top 10 items of today's category.",
+                    "refresh_time": "",
+                    "url": "https://dailytens.com/"
+                },
+                {
+                    "name": "GuessTen",
+                    "description": "Guess the top ten entries of today's category. (Daily Tens but slightly worse)",
+                    "refresh_time": "",
+                    "url": "https://guessten.com/"
+                },
+                {
+                    "name": "List Them All",
+                    "description": "List all of the items that fit today's category.",
+                    "refresh_time": "",
+                    "url": "https://listthemall.com/"
+                },
+                {
+                    "name": "Steamdle",
+                    "description": "Guess the game based on the Steam review.",
+                    "refresh_time": "",
+                    "url": "https://steamdle.com/"
+                }
+            ]
+        },
+        {
+            "title": "🥈 Greats 🥈",
+            "entries":
+            [
+                {
+                    "name": "Real Bird Fake Bird",
+                    "description": "Guess if each of the 7 prompts are real or fake (made up or don't belong).",
+                    "refresh_time": "",
+                    "url": "https://realbirdfakebird.com/"
+                },
+                {
+                    "name": "Daily Fact or Fiction",
+                    "description": "Guess whether today's statement is fact or fiction.",
+                    "refresh_time": "",
+                    "url": "https://dailyfactorfiction.com/"
+                },
+                {
+                    "name": "Chrono",
+                    "description": "Put the events in chronological order in 3 tries or less.",
+                    "refresh_time": "",
+                    "url": "https://chrono.quest/"
+                },
+                {
+                    "name": "FoodGuessr",
+                    "description": "Guess what country each of the food dishes are from.",
+                    "refresh_time": "",
+                    "url": "https://www.foodguessr.com/daily"
+                },
+                {
+                    "name": "More/Less",
+                    "description": "Decide which option has more or less, and keep going until you get one wrong.",
+                    "refresh_time": "",
+                    "url": "https://lessgames.com/moreless"
+                },
+                {
+                    "name": "Angle",
+                    "description": "Guess the angle in 4 guesses or less.",
+                    "refresh_time": "",
+                    "url": "https://angle.wtf/"
+                },
+                {
+                    "name": "Guess the Angle",
+                    "description": "Guess today's angle in 4 guesses or less. (Angle but slightly worse)",
+                    "refresh_time": "",
+                    "url": "https://guesstheangle.wtf/"
+                },
+                {
+                    "name": "Guess the House",
+                    "description": "Guess the price of the house by its pictures and information.",
+                    "refresh_time": "",
+                    "url": "https://guessthe.house/"
+                },
+                {
+                    "name": "Housle",
+                    "description": "Guess the price of the house, given pictures of parts of the house.",
+                    "refresh_time": "",
+                    "url": "https://housle.house/"
+                }
+            ]
+        },
+        {
+            "title": "🥉 Goods 🥉",
+            "entries":
+            [
+                {
+                    "name": "Daily Dozen Trivia",
+                    "description": "Answer 9 trivia questions from various categories. (Eat your vegetables)",
+                    "refresh_time": "",
+                    "url": "https://dailydozentrivia.com/"
+                }
+            ]
+        },
+        {
+            "title": "🎵 Heardles 🎵",
+            "entries":
+            [
+                {
+                    "name": "Heardle Daily",
+                    "description": "Guess the song by listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://www.heardle.info/daily/"
+                },
+                {
+                    "name": "ReHeardle Video Games",
+                    "description": "Guess the video game track from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "Guess the video game track from listening to small parts of it."
+                },
+                {
+                    "name": "ReHeardle",
+                    "description": "Guess the song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://reheardle.com/"
+                },
+                {
+                    "name": "Heardle TV Themes",
+                    "description": "Guess the TV theme song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://tv.heardledecades.xyz/"
+                },
+                {
+                    "name": "Disney Heardle",
+                    "description": "Guess the Disney song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://www.disney.heardledecades.com/"
+                },
+                {
+                    "name": "Heardle 2010's",
+                    "description": "Guess the 2010's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://heardle10s.com/"
+                },
+                {
+                    "name": "Heardle 2000's",
+                    "description": "Guess the 2000's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://00s.heardledecades.com/"
+                },
+                {
+                    "name": "Heardle 1990's",
+                    "description": "Guess the 1990's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://90s.heardledecades.com/"
+                },
+                {
+                    "name": "Heardle 1980's",
+                    "description": "Guess the 1980's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://80s.heardledecades.com/"
+                },
+                {
+                    "name": "Heardle 1970's",
+                    "description": "Guess the 1970's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://70s.heardledecades.com/"
+                },
+                {
+                    "name": "Heardle 1960's",
+                    "description": "Guess the 1960's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://60s.heardledecades.com/"
+                },
+                {
+                    "name": "Heardle 1950's",
+                    "description": "Guess the 1950's song from listening to small parts of it.",
+                    "refresh_time": "",
+                    "url": "https://50s.heardledecades.com/"
+                }
+            ]
+        }
+    ]
+}
