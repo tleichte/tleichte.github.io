@@ -104,9 +104,21 @@
                     "url": "https://dailyfactorfiction.com/"
                 },
                 {
+                    "name": "Tightrope",
+                    "description": "Answer 9 timed trivia questions without running out of lives!",
+                    "refresh_time": "",
+                    "url": "https://www.britannica.com/quiz/tightrope"
+                },
+                {
+                    "name": "Thrice",
+                    "description": "Answer today's 5 trivia questions, each from a different category.",
+                    "refresh_time": "11pm",
+                    "url": "https://thrice.geekswhodrink.com/"
+                },
+                {
                     "name": "Chrono",
                     "description": "Put the events in chronological order in 3 tries or less.",
-                    "refresh_time": "",
+                    "refresh_time": "11pm",
                     "url": "https://chrono.quest/"
                 },
                 {
@@ -118,7 +130,7 @@
                 {
                     "name": "More/Less",
                     "description": "Decide which option has more or less, and keep going until you get one wrong.",
-                    "refresh_time": "",
+                    "refresh_time": "11pm",
                     "url": "https://lessgames.com/moreless"
                 },
                 {
@@ -173,7 +185,7 @@
                     "name": "ReHeardle Video Games",
                     "description": "Guess the video game track from listening to small parts of it.",
                     "refresh_time": "",
-                    "url": "Guess the video game track from listening to small parts of it."
+                    "url": "https://reheardle.com/videogames"
                 },
                 {
                     "name": "ReHeardle",
@@ -234,6 +246,54 @@
                     "description": "Guess the 1950's song from listening to small parts of it.",
                     "refresh_time": "",
                     "url": "https://50s.heardledecades.com/"
+                }
+            ]
+        },
+        {
+            "title": "🎖Honorable Mentions🎖",
+            "entries":
+            [
+                {
+                    "name": "Balatrodle",
+                    "description": "Guess the Joker from the game Balatro.",
+                    "refresh_time": "",
+                    "url": "https://www.balatrodle.com/"
+                },
+                {
+                    "name": "Brickdle",
+                    "description": "Guess the number of pieces in the pictured LEGO set.",
+                    "refresh_time": "",
+                    "url": "https://www.brickdle.com"
+                },
+                {
+                    "name": "Costcodle",
+                    "description": "Guess the price of the given Costco item.",
+                    "refresh_time": "",
+                    "url": "https://costcodle.com/"
+                },
+                {
+                    "name": "Minecraftle",
+                    "description": "Guess the crafting recipe from the game Minecraft.",
+                    "refresh_time": "",
+                    "url": "https://minecraftle.zachmanson.com/"
+                },
+                {
+                    "name": "TF2dle",
+                    "description": "Guess the Team Fortress 2 weapon, map, cosmetic or unusual effect based on attributes.",
+                    "refresh_time": "",
+                    "url": "https://www.tf2dle.com/"
+                },
+                {
+                    "name": "Retro Game Trivia",
+                    "description": "Daily games where you guess the retro game that was released on this date in history.",
+                    "refresh_time": "",
+                    "url": "https://retrotrivia.games/"
+                },
+                {
+                    "name": "Metazooa",
+                    "description": "Guess animals to see where they share common ancestors with the mystery animal, eventually guessing the mystery animal.",
+                    "refresh_time": "",
+                    "url": "https://metazooa.com/"
                 }
             ]
         }
