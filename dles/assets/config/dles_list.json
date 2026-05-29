@@ -117,7 +117,7 @@
                 },
                 {
                     "name": "Chrono",
-                    "description": "Put the events in chronological order in 3 tries or less.",
+                    "description": "Put the events in chronological order (oldest -> newest, top -> bottom) in 3 tries or less.",
                     "refresh_time": "11pm",
                     "url": "https://chrono.quest/"
                 },
