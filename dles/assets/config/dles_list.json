@@ -20,30 +20,6 @@
                     "url": "https://www.gamedle.wtf/"
                 },
                 {
-                    "name": "Smashdle",
-                    "description": "A bunch of daily games where you guess the character from Super Smash Bros.",
-                    "refresh_time": "",
-                    "url": "https://smashdle.net/"
-                },
-                {
-                    "name": "Scrandle",
-                    "description": "Guess which scran (stadium food) is more popular based on their pictures and prices.",
-                    "refresh_time": "",
-                    "url": "https://scrandle.com/"
-                },
-                                {
-                    "name": "Pokedoku",
-                    "description": "Fill out the grid with Pokémon matching the criteria of each cell's row and column.",
-                    "refresh_time": "11pm",
-                    "url": "https://pokedoku.com/"
-                }
-            ]
-        },
-        {
-            "title": "🥇 Importants 🥇",
-            "entries":
-            [
-                {
                     "name": "Guess the Game",
                     "description": "Guess the video game by its cropped screenshots.",
                     "refresh_time": "",
@@ -54,24 +30,30 @@
                     "description": "Guess the video game from the zoomed-in screenshot.",
                     "refresh_time": "",
                     "url": "https://zoomout.videoludid.com/"
+                }
+            ]
+        },
+        {
+            "title": "🥇 Importants 🥇",
+            "entries":
+            [
+                {
+                    "name": "Pokedoku",
+                    "description": "Fill out the grid with Pokémon matching the criteria of each cell's row and column.",
+                    "refresh_time": "11pm",
+                    "url": "https://pokedoku.com/"
                 },
                 {
-                    "name": "OWDle",
-                    "description": "Daily games related to Overwatch 2. Guess the character or guess the conversation between two characters.",
+                    "name": "Scrandle",
+                    "description": "Guess which scran (stadium food) is more popular based on their pictures and prices.",
                     "refresh_time": "",
-                    "url": "https://owdle.guessing.day/"
+                    "url": "https://scrandle.com/"
                 },
                 {
                     "name": "Daily Tens",
                     "description": "Guess the top 10 items of today's category.",
                     "refresh_time": "",
                     "url": "https://dailytens.com/"
-                },
-                {
-                    "name": "GuessTen",
-                    "description": "Guess the top ten entries of today's category. (Daily Tens but slightly worse)",
-                    "refresh_time": "",
-                    "url": "https://guessten.com/"
                 },
                 {
                     "name": "List Them All",
@@ -84,6 +66,30 @@
                     "description": "Guess the game based on the Steam review.",
                     "refresh_time": "",
                     "url": "https://steamdle.com/"
+                },
+                {
+                    "name": "Thrice",
+                    "description": "Answer today's 5 trivia questions, each from a different category.",
+                    "refresh_time": "11pm",
+                    "url": "https://thrice.geekswhodrink.com/"
+                },
+                {
+                    "name": "More/Less",
+                    "description": "Decide which option has more or less, and keep going until you get one wrong.",
+                    "refresh_time": "11pm",
+                    "url": "https://lessgames.com/moreless"
+                },
+                {
+                    "name": "Kinda Hard Golf",
+                    "description": "A challenging daily golf game.",
+                    "refresh_time": "",
+                    "url": "https://kindahardgolf.com/"
+                },
+                {
+                    "name": "Fermi.gg",
+                    "description": "Make a ^educated guess.",
+                    "refresh_time": "",
+                    "url": "https://fermi.gg/"
                 }
             ]
         },
@@ -91,6 +97,18 @@
             "title": "🥈 Greats 🥈",
             "entries":
             [
+                {
+                    "name": "Amountle",
+                    "description": "Daily visual estimation game. Watch objects fall, estimate the count, and compare your five-round score.",
+                    "refresh_time": "",
+                    "url": "https://kindahardgolf.com/"
+                },
+                {
+                    "name": "Smashdle",
+                    "description": "A bunch of daily games where you guess the character from Super Smash Bros.",
+                    "refresh_time": "",
+                    "url": "https://smashdle.net/"
+                },
                 {
                     "name": "Real Bird Fake Bird",
                     "description": "Guess if each of the 7 prompts are real or fake (made up or don't belong).",
@@ -110,12 +128,6 @@
                     "url": "https://www.britannica.com/quiz/tightrope"
                 },
                 {
-                    "name": "Thrice",
-                    "description": "Answer today's 5 trivia questions, each from a different category.",
-                    "refresh_time": "11pm",
-                    "url": "https://thrice.geekswhodrink.com/"
-                },
-                {
                     "name": "Chrono",
                     "description": "Put the events in chronological order (oldest -> newest, top -> bottom) in 3 tries or less.",
                     "refresh_time": "11pm",
@@ -126,12 +138,6 @@
                     "description": "Guess what country each of the food dishes are from.",
                     "refresh_time": "",
                     "url": "https://www.foodguessr.com/daily"
-                },
-                {
-                    "name": "More/Less",
-                    "description": "Decide which option has more or less, and keep going until you get one wrong.",
-                    "refresh_time": "11pm",
-                    "url": "https://lessgames.com/moreless"
                 },
                 {
                     "name": "Angle",
@@ -163,6 +169,12 @@
             "title": "🥉 Goods 🥉",
             "entries":
             [
+                {
+                    "name": "OWDle",
+                    "description": "Daily games related to Overwatch. Guess the character or guess the conversation between two characters.",
+                    "refresh_time": "",
+                    "url": "https://owdle.guessing.day/"
+                },
                 {
                     "name": "Daily Dozen Trivia",
                     "description": "Answer 9 trivia questions from various categories. (Eat your vegetables)",
