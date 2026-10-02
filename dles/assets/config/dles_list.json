@@ -96,6 +96,12 @@
                     "description": "Spell words at varying difficulty.",
                     "refresh_time": "",
                     "url": "https://spellcheckgame.com/"
+                },
+                {
+                    "name": "RNGDle",
+                    "description": "Generate a random number and score points for uniqueness.",
+                    "refresh_time": "",
+                    "url": "https://www.rngdle.com/"
                 }
             ]
         },
