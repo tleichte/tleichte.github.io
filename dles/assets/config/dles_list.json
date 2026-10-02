@@ -90,6 +90,12 @@
                     "description": "Make a ^educated guess.",
                     "refresh_time": "",
                     "url": "https://fermi.gg/"
+                },
+                {
+                    "name": "Spellcheck",
+                    "description": "Spell words at varying difficulty.",
+                    "refresh_time": "",
+                    "url": "https://spellcheckgame.com/"
                 }
             ]
         },

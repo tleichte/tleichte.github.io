@@ -1,5 +1,11 @@
 [
     {
+        "title": "Bit Reactor (2024 - Present)",
+        "description": "At Bit Reactor, I worked on the UI for the tactical gameplay. My work encompassed most on-screen elements, including the healthbars, panels, buttons, inspection, and targeting UI.",
+        "icon": "br",
+        "InnerImages": [ "ZCom-Tactical.png", "Zcom-Inspection.png", "ZCom-Targeting1.png", "ZCom-Targeting2.png" ]
+    },
+    {
         "title": "Lost Boys Interactive (2022 - 2024)",
         "description": "In my role at LBI, I worked on the pre-production to ship phases for WWE 2K23, specifically in the MyFaction game mode. I also worked on several unannounced AAA PC and Console games.",
         "icon": "lbi",
